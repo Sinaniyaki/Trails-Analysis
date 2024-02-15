@@ -2,6 +2,7 @@
 
 ## Overview
 This project, conducted for CMPT 353 at Simon Fraser University, focuses on applying smoothing techniques to hiking trail data obtained from OpenStreetMap to enhance its accuracy and usability. By addressing the challenge of data noise and inconsistencies, we aimed to improve the precision of GPS trail data, making it more reliable for hikers and outdoor enthusiasts.
+For more information refer to the report pdf file.
 
 ## Group Members
 - Yang Liu
